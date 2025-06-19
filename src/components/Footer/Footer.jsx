@@ -84,12 +84,12 @@ const Footer = () => {
                             </p>
                             <p>
                                 <a href="https://www.instagram.com/virtusarge"> 
-                                    <img src="/instagram-50.svg" alt="Instagram" />
+                                    <img src={`${process.env.PUBLIC_URL}/instagram-50.svg`} alt="Instagram" />
                                 </a>
                             </p>
                             <p>
                                 <a href="https://www.facebook.com/virtusarge"> 
-                                    <img src="/facebook-48.svg" alt="Facebook" />
+                                    <img src={`${process.env.PUBLIC_URL}/facebook-48.svg`} alt="Facebook" />
                                 </a>
                             </p>
                             

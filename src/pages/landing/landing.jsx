@@ -36,7 +36,7 @@ function Landing() {
   return (
     <div className="landing_container">
       <div className="landing_image">
-        <img src="/landing.svg" alt="Landing page image" />
+        <img src={`${process.env.PUBLIC_URL}/landing.svg`} alt="Landing page image" />
         <div className="landing_text">
           <h2>
             {chars.map((char, index) => (

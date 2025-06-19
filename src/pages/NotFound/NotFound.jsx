@@ -14,7 +14,7 @@ const NotFound = () => {
 
       
       <img
-        src="/notfound.svg"
+        src={`${process.env.PUBLIC_URL}/notfound.svg`}
         alt="https://www.freepik.com/author/macrovector"
         style={{
           width: '100vw',
@@ -28,7 +28,7 @@ const NotFound = () => {
         </div>
       </div>
       <div className="notfound-button-container">
-        <a href="/" className="notfound-button">{routemain}</a>
+        <a href={`${process.env.PUBLIC_URL}/`} className="notfound-button">{routemain}</a>
       </div>
     </div>
     </div>

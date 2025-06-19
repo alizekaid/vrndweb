@@ -47,14 +47,14 @@ const Navbar = () => {
     <nav>
       <a href={`/?lang=${selectedLang}`} className="title">
       <div className="navbar_imgtext" >
-  <img src="/virtusrndlogo.png" alt="Virtus Arge Logo" width="18" height="18" style={{ marginRight: '5px' }} />
+  <img src={`${process.env.PUBLIC_URL}/virtusrndlogo.png`} alt="Virtus Arge Logo" width="18" height="18" style={{ marginRight: '5px' }} />
   <span>{virtusarge}</span>
 </div>
 
         
       </a>
       <div className="menu" onClick={() => setMenuOpen(!menuOpen)}>
-        <img src="/menu.svg" alt="Menu Icon" width="24" height="24" />
+        <img src={`${process.env.PUBLIC_URL}/menu.svg`} alt="Menu Icon" width="24" height="24" />
       </div>
       <ul className={menuOpen ? "open" : ""}>
         <li onClick={() => handleNavLinkClick("about")}>
@@ -69,7 +69,7 @@ const Navbar = () => {
         <li onClick={() => handleNavLinkClick("contact")}>
           <span>{contact}</span>
         </li>
-        <li onClick={() => window.location.href = `/blog`}>
+        <li onClick={() => window.location.href = `${process.env.PUBLIC_URL}/blog`}>
           <span>Blog</span>
         </li>
         <li className="language-toggle">
