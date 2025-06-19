@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>Virtus ArGe Yazılım A.Ş. Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/vrndweb/blog</link>
         <description>Virtus ArGe Yazılım A.Ş. Blog</description>
         <lastBuildDate>Thu, 19 Jun 2025 13:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[LLM]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/llm</link>
+            <link>https://your-docusaurus-test-site.com/vrndweb/blog/llm</link>
             <guid>llm</guid>
             <pubDate>Thu, 19 Jun 2025 13:29:08 GMT</pubDate>
             <description><![CDATA[Table of Contents]]></description>
         </item>
         <item>
             <title><![CDATA[Microservice]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/microservice</link>
+            <link>https://your-docusaurus-test-site.com/vrndweb/blog/microservice</link>
             <guid>microservice</guid>
             <pubDate>Thu, 19 Jun 2025 12:34:12 GMT</pubDate>
             <description><![CDATA[Table of Contents]]></description>
