@@ -38,7 +38,7 @@ function App() {
       "https://virtusarge.com/",
       "https://virtusarge.com/?lang=en",
       "https://virtusarge.com/?lang=tr",
-      "https://alizekaid.github.io/vrndweb",
+      "https://alizekaid.github.io/vrndweb/",
       "https://alizekaid.github.io/vrndweb/?lang=en",
       "https://alizekaid.github.io/vrndweb/?lang=tr",
       "https://alizekaid.github.io/vrndweb/blog",
@@ -55,7 +55,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/vrndweb">
       <div className="App">
         {!validURL ? (
           <NotFound />
