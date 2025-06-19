@@ -4,7 +4,7 @@ import { translate } from "../../components/Translation/Translation";
 
 const ServicesConsultant = () => {
   const data = {
-    icon: "/consultant.svg",
+    icon: "/vrndweb/consultant.svg",
     title: translate("production_cons_title"),
     content: translate("production_cons_content"),
     id: "content-block-id",
