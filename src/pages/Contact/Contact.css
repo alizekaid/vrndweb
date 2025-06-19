@@ -1,0 +1,22 @@
+.contact__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contact__info {
+    width: 100%;
+}
+
+iframe {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.contact-h2 {
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #18216d;
+}
