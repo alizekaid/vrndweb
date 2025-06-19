@@ -38,6 +38,10 @@ function App() {
       "https://virtusarge.com/",
       "https://virtusarge.com/?lang=en",
       "https://virtusarge.com/?lang=tr",
+      "https://alizekaid.github.io/vrndweb",
+      "https://alizekaid.github.io/vrndweb/?lang=en",
+      "https://alizekaid.github.io/vrndweb/?lang=tr",
+      "https://alizekaid.github.io/vrndweb/blog",
     ];
 
     return validURLs.includes(window.location.href) || window.location.href.startsWith("https://virtusarge.com");
