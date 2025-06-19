@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vrndweb/static/css/main.f48ce935.css",
-    "main.js": "/vrndweb/static/js/main.10d3f292.js",
+    "main.js": "/vrndweb/static/js/main.1a221c7c.js",
     "static/media/united-kingdom-flag.svg": "/vrndweb/static/media/united-kingdom-flag.8411a74a2d01099b9cd827dcba16a600.svg",
     "index.html": "/vrndweb/index.html",
     "static/media/turkey-flag.svg": "/vrndweb/static/media/turkey-flag.3cca6cbf10909ef117c32101c266c69a.svg",
     "main.f48ce935.css.map": "/vrndweb/static/css/main.f48ce935.css.map",
-    "main.10d3f292.js.map": "/vrndweb/static/js/main.10d3f292.js.map"
+    "main.1a221c7c.js.map": "/vrndweb/static/js/main.1a221c7c.js.map"
   },
   "entrypoints": [
     "static/css/main.f48ce935.css",
-    "static/js/main.10d3f292.js"
+    "static/js/main.1a221c7c.js"
   ]
 }
