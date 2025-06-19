@@ -42,6 +42,8 @@ function App() {
       "https://alizekaid.github.io/vrndweb/?lang=en",
       "https://alizekaid.github.io/vrndweb/?lang=tr",
       "https://alizekaid.github.io/vrndweb/blog",
+      "https://alizekaid.github.io/vrndweb/blog/llm",
+      "https://alizekaid.github.io/vrndweb/blog/microservice",
     ];
 
     return validURLs.includes(window.location.href) || window.location.href.startsWith("https://virtusarge.com");
