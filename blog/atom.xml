@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/vrndweb/blog</id>
+    <id>https://your-docusaurus-test-site.com/blog</id>
     <title>Virtus ArGe Yazılım A.Ş. Blog</title>
     <updated>2025-06-19T13:29:08.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/vrndweb/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
     <subtitle>Virtus ArGe Yazılım A.Ş. Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/vrndweb/img/virtusrndlogo.png</icon>
+    <icon>https://your-docusaurus-test-site.com/img/virtusrndlogo.png</icon>
     <entry>
         <title type="html"><![CDATA[LLM]]></title>
         <id>llm</id>
-        <link href="https://your-docusaurus-test-site.com/vrndweb/blog/llm"/>
+        <link href="https://your-docusaurus-test-site.com/blog/llm"/>
         <updated>2025-06-19T13:29:08.000Z</updated>
         <summary type="html"><![CDATA[Table of Contents]]></summary>
         <author>
@@ -21,7 +21,7 @@
     <entry>
         <title type="html"><![CDATA[Microservice]]></title>
         <id>microservice</id>
-        <link href="https://your-docusaurus-test-site.com/vrndweb/blog/microservice"/>
+        <link href="https://your-docusaurus-test-site.com/blog/microservice"/>
         <updated>2025-06-19T12:34:12.000Z</updated>
         <summary type="html"><![CDATA[Table of Contents]]></summary>
         <author>
