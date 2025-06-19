@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[567],{6996:e=>{e.exports=JSON.parse('{"allTagsPath":"/vrndweb/blog/tags","slug":"/vrndweb/blog/tags/implementation","name":"implementation","count":1,"permalink":"/vrndweb/blog/tags/implementation"}')}}]);
