@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[754],{9270:e=>{e.exports=JSON.parse('{"allTagsPath":"/vrndweb/blog/blog/tags","slug":"/vrndweb/blog/blog/tags/machine-learning","name":"Machine Learning","count":1,"permalink":"/vrndweb/blog/blog/tags/machine-learning"}')}}]);
